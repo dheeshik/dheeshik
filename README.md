@@ -48,12 +48,6 @@
 
 ###
 
-<div align="center">
-  <img height="450" src="[https://i.redd.it/mg24rs3jfg191.gif](https://media.tenor.com/MxOrZNzr20sAAAAd/star-citizen-bengal.gif)"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dheeshik.dheeshik&left_color=grey&right_color=steelblue"  />
 </div>
