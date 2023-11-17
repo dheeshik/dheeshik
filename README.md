@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://i.redd.it/mg24rs3jfg191.gif"  />
+  <img height="450" src="[https://i.redd.it/mg24rs3jfg191.gif](https://media.tenor.com/MxOrZNzr20sAAAAd/star-citizen-bengal.gif)"  />
 </div>
 
 ###
