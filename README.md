@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2007<br>📚 I'm currently learning next.js<br>👾 Unreal Engine</p>
+<p align="left">📚 I'm currently learning next.js<br>👾 Unreal Engine</p>
 
 ###
 
