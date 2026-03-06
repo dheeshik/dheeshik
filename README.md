@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning ROS2<br>- 👾 Embedded C</p>
+<p align="left">- 📚 I'm currently learning:<br>- ROS2<br>- Embedded C</p>
 
 ###
 
