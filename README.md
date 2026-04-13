@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student and developer</p>
+<p align="left">I'm a student and developer studying Computer Engineering and Computer Science @ Northeastern University</p>
 
 ###
 
